@@ -16,6 +16,3 @@ Computer Programming Analyst with academic training in the analysis, design, dev
 ![](https://github-profile-trophy.vercel.app/?username=aalioth1&theme=darcula&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=aalioth1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
