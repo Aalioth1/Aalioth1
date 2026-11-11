@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Programming Analyst with academic training in the analysis, design, development, and implementation of software solutions. Skilled in identifying and solving problems, collaborating with multidisciplinary teams, and adapting to technological changes. Focused on developing secure, high-quality software solutions by applying programming best practices, development methodologies, and modern technologies. Key strengths include autonomy, analytical thinking, continuous learning, and a strong commitment to building software solutions that meet organizational needs.<br>
+Software Developer with academic training in the analysis, design, development, and implementation of software solutions. Skilled in identifying and solving problems, collaborating with multidisciplinary teams, and adapting to technological changes. Focused on developing secure, high-quality software solutions by applying programming best practices, development methodologies, and modern technologies. Key strengths include autonomy, analytical thinking, continuous learning, and a strong commitment to building software solutions that meet organizational needs.<br>
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:martinez.moises.vidal@gmail.com)
